@@ -5,6 +5,7 @@ import lab_3.clases.Persona;
 public class Ejercicio7 {
     public static void main(String[] args) {
         // Crear una instancia de Persona
+        @SuppressWarnings("unused")
         Persona persona = new Persona();
 
         // Se establece la referencia a null
