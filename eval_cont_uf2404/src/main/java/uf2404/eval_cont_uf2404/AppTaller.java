@@ -2,7 +2,11 @@ package uf2404.eval_cont_uf2404;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import uf2404.eval_cont_uf2404.clases.*;
+
+import uf2404.eval_cont_uf2404.clases.Cliente;
+import uf2404.eval_cont_uf2404.clases.Reparacion;
+import uf2404.eval_cont_uf2404.clases.Taller;
+import uf2404.eval_cont_uf2404.clases.Vehiculo;
 
 import java.util.Scanner;
 
